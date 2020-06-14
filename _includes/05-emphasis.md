@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*May lernt Deutsch*
+_Amy mag essen_
+
+**lux fua**
+__li hggs by__
+
+_qeu **aden** lili_
